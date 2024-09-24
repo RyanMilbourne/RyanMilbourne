@@ -6,7 +6,7 @@ I’m a front-end web developer and designer with over 16 years of experience in
 
 I am passionate about building engaging digital experiences that connect with audiences and elevate projects to new heights.
 
-## 🤖 Skills
+## 🧑🏽‍💻 Tech Stack
 
 JS / HTML / CSS / React JS / Vite / Node.js / PostgreSQL / Adobe Suite / Webflow / Rive / GSAP
 
