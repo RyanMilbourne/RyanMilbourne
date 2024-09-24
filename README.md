@@ -22,8 +22,8 @@ JS / HTML / CSS / React JS / Vite / Node.js / PostgreSQL / Adobe Suite / Webflow
 ## ⚙️ Portfolio
 
 <div align="center">
-<img src="images/website-graphic.png" alt="example-image" width="400"/>
+<img src="images/website-graphic.png" alt="example-image" width="300"/>
 
-Check out my portfolio at [ryanmilbourne.dev](https://ryanmilbourne.dev)
+Check out my portfolio: [ryanmilbourne.dev](https://ryanmilbourne.dev)
 
 </div>
