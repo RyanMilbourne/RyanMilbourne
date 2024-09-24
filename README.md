@@ -10,15 +10,6 @@ I am passionate about building engaging digital experiences that connect with au
 
 JS / HTML / CSS / React JS / Vite / Node.js / PostgreSQL / Adobe Suite / Webflow / Rive / GSAP
 
-## 🖥️ Examples
-
-<div align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="images/weatherapp-image-1.webp" alt="example-image" width="200"/>
-  <img src="images/propbox-thumbnail.webp" alt="example-image" width="200"/>
-  <img src="images/vanurbantimber-thumbnail.webp" alt="example-image" width="200"/>
-  <img src="images/boxed-thumbnail.webp" alt="example-image" width="200"/>
-</div>
-
 ## ⚙️ Portfolio
 
 <div align="center">
@@ -26,4 +17,13 @@ JS / HTML / CSS / React JS / Vite / Node.js / PostgreSQL / Adobe Suite / Webflow
 
 Check out my portfolio: [ryanmilbourne.dev](https://ryanmilbourne.dev)
 
+</div>
+
+## 🖥️ Examples
+
+<div align="left" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="images/weatherapp-image-1.webp" alt="example-image" width="200"/>
+  <img src="images/propbox-thumbnail.webp" alt="example-image" width="200"/>
+  <img src="images/vanurbantimber-thumbnail.webp" alt="example-image" width="200"/>
+  <img src="images/boxed-thumbnail.webp" alt="example-image" width="200"/>
 </div>
