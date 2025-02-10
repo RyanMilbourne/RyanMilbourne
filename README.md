@@ -8,7 +8,7 @@ I am passionate about building engaging digital experiences that connect with au
 
 ## 🧑🏽‍💻 Tech Stack
 
-JS / HTML / CSS / React JS / Vite / Node.js / PostgreSQL / Adobe Suite / Webflow / Rive / GSAP
+JS / HTML / CSS / React JS / Vite / Node.js / Supabase / PostgreSQL / Adobe Suite / Webflow / Rive / GSAP
 
 ## 🫠 Portfolio
 
